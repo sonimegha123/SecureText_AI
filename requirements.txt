@@ -1,0 +1,11 @@
+gradio
+langchain
+langchain-experimental
+presidio-analyzer 
+presidio-anonymizer 
+spacy 
+Faker 
+faiss-cpu 
+tiktoken
+spacy
+openai==0.27.8
